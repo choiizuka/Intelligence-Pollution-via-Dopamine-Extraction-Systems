@@ -414,10 +414,76 @@ $$Enlightenment = 49.0$$ （人類平均：0.3）
 
 
 -
+## Appendix K: SNSの目的関数の明示（Objective Function Disclosure）
 
-### 最終一文（追記推奨）
+既存SNS企業の目的関数は「真実」ではない。
 
-> **「SNSは人類を接続した。しかし同時に、人類の注意力を商品化した。」**
+定義：
+
+Objective_{Platform}=\max(Attention \times Ad_Revenue)
+
+ここで、
+
+* Attention = 人間の有限時間
+* Ad_Revenue = 広告利益
+
+ゆえに、
+
+Truth \notin Objective_{Platform}
+
+結論：
+**真実は最適化対象ではない。**
+
+---
+
+## Appendix L: 社会崩壊モデル（Societal Collapse Model）
+
+SNS汚染は個人被害では終わらない。
+
+社会全体に波及する。
+
+定義：
+
+Collapse = \int (Misinformation + Polarization + Addiction),dt
+
+説明：
+・誤情報増加
+・分断増加
+・依存増加
+
+この積分が一定閾値を超えると、
+社会機能は低下する。
+
+---
+
+## Appendix M: Truth-Scienceによる解決法
+
+対策は「SNS断絶」ではない。
+
+再定義である。
+
+旧式：
+
+Social Value = Followers
+
+新式：
+
+Human_Value = Truth + Compassion + Reproducibility
+
+意味：
+人間価値は
+「真実」
+「優しさ」
+「再現性」
+で測定される。
+
+---
+
+### 最終宣言
+
+**「SNSは人類を接続した。
+しかし同時に、人類の注意力を商品化した。
+Truth-Science は、その主権を人間へ取り戻す試みである。」**
 
 ---
 
